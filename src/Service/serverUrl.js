@@ -1,0 +1,1 @@
+export const serverUrl='https://projectfair-backend-8occ.onrender.com'
